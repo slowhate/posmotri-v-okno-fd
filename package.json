@@ -1,0 +1,27 @@
+{
+  "name": "posmotri-v-okno-fd",
+  "version": "1.0.0",
+  "description": "project work",
+  "homepage": "https://github.com/slowhate/posmotri-v-okno-fd#readme",
+  "bugs": {
+    "url": "https://github.com/slowhate/posmotri-v-okno-fd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slowhate/posmotri-v-okno-fd.git"
+  },
+  "license": "ISC",
+  "author": "slowhate",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "check": "prettier --check './**/*.{html,css,js}'",
+    "format": "prettier --write './**/*.{html,css,js}'",
+    "lint": "stylelint \"**/*.css\"",
+    "lintfix": "stylelint \"**/*.css\" --fix"
+  },
+  "dependencies": {
+    "prettier": "^3.8.3",
+    "stylelint": "^17.12.0"
+  }
+}
