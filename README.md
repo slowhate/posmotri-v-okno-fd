@@ -2,4 +2,4 @@
 
 Сслыка на репозиторий:
 
-- https://github.com/slowhate/posmotri-v-okno-fd#
+- https://github.com/slowhate/posmotri-v-okno-fd
