@@ -1,16 +1,16 @@
 .error {
-  position: absolute;
   inset: 0;
   display: flex;
-  justify-content: center;
+  position: absolute;
   align-items: center;
+  justify-content: center;
   background-color: #545050;
 }
 
 .error__title {
   color: #fff;
-  font-family: Oswald, sans-serif;
   font-size: 30px;
   text-align: center;
   text-transform: uppercase;
+  font-family: Oswald, sans-serif;
 }

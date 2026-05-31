@@ -26,4 +26,4 @@ module.exports = {
     'selector-class-pattern': null,
     'font-family-name-quotes': 'always-where-recommended',
   },
-}; 
+};
